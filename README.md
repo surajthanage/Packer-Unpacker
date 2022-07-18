@@ -6,12 +6,18 @@ In this project , I have implemented the MYSQL like queries inside JAVA program.
 # Queries implemented :
 
 Selection Queries
+
 Aggregation Queries
+
 Insertion Queries
+
 Deletion Queries
+
 Update Queries
-Steps to run program
+
+# Steps to run program
 Install JAVA to run application
+
 # Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
